@@ -1,12 +1,12 @@
 <?php
 /**
- * Li Charts v1.1
+ * Li Charts v1.3
  *
  * LiCharts - группировка статистики LiveInternet для сайтов
  *
  * @author     Spryt, <me@spryt.ru>, http://spryt.ru/
  * @copyright  2015
- * @version    1.1
+ * @version    1.3
  * @link       http://licharts.ru/
  */
 

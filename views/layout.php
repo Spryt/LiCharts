@@ -30,7 +30,7 @@
 
 
 <?php if($this->logged):?><p style="font-size: 10pt; float: left;"><a href="?do=logout">Выйти</a> | <span id="change_password"><a class="jslink" onclick="change_password();">Сменить пароль</a></span><?php endif;?>
-<p style="color: gray; font-size: 10pt; float: right;"><a href="http://licharts.ru">Li Charts</a> v1.3, &copy; <a href="http://spryt.ru/">Spryt</a>, 2015
+<p style="color: gray; font-size: 10pt; float: right;"><a href="http://licharts.ru">Li Charts</a> v1.3, &copy; <a href="http://spryt.ru/">Spryt</a>, 2015-<?php echo date("Y"); ?>
 
 </div>
 
